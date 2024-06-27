@@ -1,6 +1,5 @@
 # Excel-Coffee-Shop-Sales-Analysis
 
-# Coffee Shop Sales Analysis
 
 This repository contains an analysis of retail sales data for a coffee shop, aimed at uncovering actionable insights to enhance the shop's performance.
 
